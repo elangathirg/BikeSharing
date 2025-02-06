@@ -54,7 +54,7 @@ statsmodels==0.14.2
 ## Acknowledgements
 Give credit here.
 - This project was inspired by...
-This project was envisioned, assigned and assisted  by Upgrad and completed by Elangathir Balasubramanian (Email: elangathirg@gmail.com)
+This project was envisioned, assigned and assisted  by Upgrad and completed by Elangathir Gunasekaran (Email: elangathirg@gmail.com)
 The Upgrade team structured this wonderful exercise, equipped was with good educational content and held in person assistance to clarify doubts 
 
 ## Contact
